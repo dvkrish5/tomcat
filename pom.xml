@@ -5,7 +5,7 @@
 
   <groupId>ericsson</groupId>
   <artifactId>erisccon</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
 
   <name>erisccon</name>
   <!-- FIXME change it to the project's website -->
@@ -47,7 +47,7 @@
    <connection>scm:git:https://github.com/dvkrish5/tomcat.git</connection>
        <url>http://github.com/user/project</url>
     <developerConnection>scm:git:https://github.com/dvkrish5/tomcat.git</developerConnection>
-    <tag>erisccon-1.0</tag>
+    <tag>erisccon-1.0-SNAPSHOT</tag>
   </scm>
   <build>
      <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
